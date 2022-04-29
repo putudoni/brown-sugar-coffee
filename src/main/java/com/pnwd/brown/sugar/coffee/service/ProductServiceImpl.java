@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.pnwd.services;
+package com.pnwd.brown.sugar.coffee.service;
 
 import javax.persistence.EntityNotFoundException;
 
@@ -11,9 +11,9 @@ import org.springframework.retry.annotation.Retryable;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-import com.pnwd.models.OrderProductRequest;
-import com.pnwd.models.Product;
-import com.pnwd.repositories.ProductRepository;
+import com.pnwd.brown.sugar.coffee.model.OrderProductRequest;
+import com.pnwd.brown.sugar.coffee.model.Product;
+import com.pnwd.brown.sugar.coffee.repository.ProductRepository;
 
 /**
  * @author Putu Ngurah Wigadoni

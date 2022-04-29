@@ -1,8 +1,8 @@
-package com.pnwd.repositories;
+package com.pnwd.brown.sugar.coffee.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import com.pnwd.models.Product;
+import com.pnwd.brown.sugar.coffee.model.Product;
 
 /**
  * @author Putu Ngurah Wigadoni

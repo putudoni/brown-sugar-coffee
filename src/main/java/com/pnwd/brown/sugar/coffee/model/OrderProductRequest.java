@@ -1,4 +1,4 @@
-package com.pnwd.models;
+package com.pnwd.brown.sugar.coffee.model;
 
 import lombok.Data;
 

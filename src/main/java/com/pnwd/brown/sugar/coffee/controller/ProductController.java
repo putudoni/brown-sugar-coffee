@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.pnwd.controllers;
+package com.pnwd.brown.sugar.coffee.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PutMapping;
@@ -9,8 +9,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.pnwd.models.OrderProductRequest;
-import com.pnwd.services.ProductService;
+import com.pnwd.brown.sugar.coffee.model.OrderProductRequest;
+import com.pnwd.brown.sugar.coffee.service.ProductService;
 
 /**
  * @author Putu Ngurah Wigadoni

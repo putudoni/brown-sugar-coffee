@@ -1,6 +1,6 @@
-package com.pnwd.services;
+package com.pnwd.brown.sugar.coffee.service;
 
-import com.pnwd.models.OrderProductRequest;
+import com.pnwd.brown.sugar.coffee.model.OrderProductRequest;
 
 /**
  * @author Putu Ngurah Wigadoni
